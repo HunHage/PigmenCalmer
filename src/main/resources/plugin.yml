@@ -1,0 +1,5 @@
+name: PigmenCalmer
+version: ${project.version}
+main: net.exploitables.pigmencalmer.PigmenCalmer
+api-version: 1.15
+description: Calms down all pigmen in the nether when you die.
